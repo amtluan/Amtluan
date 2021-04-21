@@ -1,0 +1,10 @@
+-viet 1 app mô phỏng  hoạt dộng của 2 nhân vật: bố và con
+Bố và con sử dụng 1 tài khoản ngân hàng chung.
+-TK ngan hàng có field: balance và 2 method: deposit, withdraw
+
+Bố: sử dụng method deposit
+Con: sử dụng method withdraw
+
+
+-Bố và con phải đượcxếp lịch sử dụng tài  khonar chung để  luôm đảm bảo  giao dịch:
+Con không rút tiền> so balance, khi con con truy cập thì bố không được sử dụng và ngược lại.

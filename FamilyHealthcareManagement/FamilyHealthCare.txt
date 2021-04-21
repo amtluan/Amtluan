@@ -1,0 +1,7 @@
+VG,CHIDAO,20,Male,ChiDao@gmail.com,038406252,An Giang,1,0,0
+GL2,CAI,20,Female,Cai@gmail.com,0398544458,Kien Giang,2,1,0
+VL1,NENGSHI,22,Male,Nengshi@gmail.com,036141422,Dong Thap,3,2,0
+AG01,BUKEQUI,20,Male,Bukequi@gmail.com,0961449024,Hai Duong,5,2,2
+AG02,NUMBUBU,25,Male,Numbubu@gamil.com,03947123332,Hai Duong,4,2,0
+AG03,NAKASAGI,13,Male,KA@gmail.com,01551551115,trung quoc,7,2,0
+AG04,asfa,12,Female,a@gmail.com,01555555515,qqwdqd,7,2,2

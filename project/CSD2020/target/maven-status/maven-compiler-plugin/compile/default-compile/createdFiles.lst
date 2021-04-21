@@ -1,0 +1,16 @@
+backtracking\core\BacktrackSolver.class
+Recurtion\Main.class
+backtracking\core\RealDomain.class
+backtracking\core\VarSet.class
+backtracking\core\IndexDomain.class
+backtracking\core\Proposal.class
+Mytree\MyQueue.class
+backtracking\bk_uses\BitStrGenerator.class
+Mytree\Main.class
+backtracking\bk_uses\BuffaloProblem$BuffaloEval.class
+backtracking\core\DefaultEvaluator.class
+backtracking\bk_uses\BuffaloProblem.class
+backtracking\core\Variable.class
+Mytree\Node.class
+Mytree\BSTree.class
+backtracking\core\Evaluator.class
